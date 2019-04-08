@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>XIAO | Free&#39;s blog</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://xiaoyao.ink/"/>
+  <updated>2019-04-08T02:33:54.588Z</updated>
+  <id>http://xiaoyao.ink/</id>
+  
+  <author>
+    <name>XIAO</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://xiaoyao.ink/category/hello-world/"/>
+    <id>http://xiaoyao.ink/category/hello-world/</id>
+    <published>2019-04-08T02:33:54.588Z</published>
+    <updated>2019-04-08T02:33:54.588Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>test</title>
+    <link href="http://xiaoyao.ink/category/test/"/>
+    <id>http://xiaoyao.ink/category/test/</id>
+    <published>2019-04-07T14:34:54.000Z</published>
+    <updated>2019-04-07T14:43:28.983Z</updated>
+    
+    <content type="html"><![CDATA[<p>这是摘要<br><a id="more"></a></p><p>这是全文</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;这是摘要&lt;br&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>标签</title>
+    <link href="http://xiaoyao.ink/category/%E6%A0%87%E7%AD%BE/"/>
+    <id>http://xiaoyao.ink/category/标签/</id>
+    <published>2019-04-06T23:29:06.000Z</published>
+    <updated>2019-04-07T12:31:38.039Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+      <category term="C" scheme="http://xiaoyao.ink/tags/C/"/>
+    
+      <category term="STM32" scheme="http://xiaoyao.ink/tags/STM32/"/>
+    
+      <category term="算法" scheme="http://xiaoyao.ink/tags/%E7%AE%97%E6%B3%95/"/>
+    
+      <category term="S5PV210/S3C2440/S3C2410" scheme="http://xiaoyao.ink/tags/S5PV210-S3C2440-S3C2410/"/>
+    
+      <category term="C++" scheme="http://xiaoyao.ink/tags/C/"/>
+    
+      <category term="Uboot/Kernel" scheme="http://xiaoyao.ink/tags/Uboot-Kernel/"/>
+    
+      <category term="Makefile" scheme="http://xiaoyao.ink/tags/Makefile/"/>
+    
+      <category term="设备驱动" scheme="http://xiaoyao.ink/tags/%E8%AE%BE%E5%A4%87%E9%A9%B1%E5%8A%A8/"/>
+    
+      <category term="Phython" scheme="http://xiaoyao.ink/tags/Phython/"/>
+    
+      <category term="链接脚本" scheme="http://xiaoyao.ink/tags/%E9%93%BE%E6%8E%A5%E8%84%9A%E6%9C%AC/"/>
+    
+      <category term="AI/人工智能" scheme="http://xiaoyao.ink/tags/AI-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
+    
+      <category term="面试宝典" scheme="http://xiaoyao.ink/tags/%E9%9D%A2%E8%AF%95%E5%AE%9D%E5%85%B8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JAVA</title>
+    <link href="http://xiaoyao.ink/category/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80-JAVA/"/>
+    <id>http://xiaoyao.ink/category/编程语言-JAVA/</id>
+    <published>2019-04-06T23:28:07.000Z</published>
+    <updated>2019-04-07T00:27:41.410Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="编程语言" scheme="http://xiaoyao.ink/categories/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/"/>
+    
+      <category term="JAVA" scheme="http://xiaoyao.ink/categories/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/JAVA/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Phython</title>
+    <link href="http://xiaoyao.ink/category/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80-Phython/"/>
+    <id>http://xiaoyao.ink/category/编程语言-Phython/</id>
+    <published>2019-04-06T23:27:51.000Z</published>
+    <updated>2019-04-07T00:27:41.415Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="编程语言" scheme="http://xiaoyao.ink/categories/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/"/>
+    
+      <category term="Phython" scheme="http://xiaoyao.ink/categories/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/Phython/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>C++</title>
+    <link href="http://xiaoyao.ink/category/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80-C++/"/>
+    <id>http://xiaoyao.ink/category/编程语言-C++/</id>
+    <published>2019-04-06T23:27:37.000Z</published>
+    <updated>2019-04-07T02:34:02.013Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="编程语言" scheme="http://xiaoyao.ink/categories/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/"/>
+    
+      <category term="C++" scheme="http://xiaoyao.ink/categories/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/C/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>调试技巧</title>
+    <link href="http://xiaoyao.ink/category/%E5%B5%8C%E5%85%A5%E5%BC%8F%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86-%E8%B0%83%E8%AF%95%E6%8A%80%E5%B7%A7/"/>
+    <id>http://xiaoyao.ink/category/嵌入式基础知识-调试技巧/</id>
+    <published>2019-04-06T23:25:43.000Z</published>
+    <updated>2019-04-07T00:27:41.437Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="嵌入式基础知识" scheme="http://xiaoyao.ink/categories/%E5%B5%8C%E5%85%A5%E5%BC%8F%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/"/>
+    
+      <category term="调试技巧" scheme="http://xiaoyao.ink/categories/%E5%B5%8C%E5%85%A5%E5%BC%8F%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E8%B0%83%E8%AF%95%E6%8A%80%E5%B7%A7/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>链接脚本</title>
+    <link href="http://xiaoyao.ink/category/%E5%B5%8C%E5%85%A5%E5%BC%8F%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86-%E9%93%BE%E6%8E%A5%E8%84%9A%E6%9C%AC/"/>
+    <id>http://xiaoyao.ink/category/嵌入式基础知识-链接脚本/</id>
+    <published>2019-04-06T23:25:40.000Z</published>
+    <updated>2019-04-07T00:27:41.433Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="嵌入式基础知识" scheme="http://xiaoyao.ink/categories/%E5%B5%8C%E5%85%A5%E5%BC%8F%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/"/>
+    
+      <category term="链接脚本" scheme="http://xiaoyao.ink/categories/%E5%B5%8C%E5%85%A5%E5%BC%8F%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E9%93%BE%E6%8E%A5%E8%84%9A%E6%9C%AC/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>S5PV210/S3C2440/S3C2410</title>
+    <link href="http://xiaoyao.ink/category/%E5%8D%95%E7%89%87%E6%9C%BA%E8%A3%B8%E6%9C%BA%E5%BC%80%E5%8F%91-S5PV210/"/>
+    <id>http://xiaoyao.ink/category/单片机裸机开发-S5PV210/</id>
+    <published>2019-04-06T23:23:50.000Z</published>
+    <updated>2019-04-07T00:27:41.427Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="单片机裸机开发" scheme="http://xiaoyao.ink/categories/%E5%8D%95%E7%89%87%E6%9C%BA%E8%A3%B8%E6%9C%BA%E5%BC%80%E5%8F%91/"/>
+    
+      <category term="S5PV210/S3C2440/S3C2410" scheme="http://xiaoyao.ink/categories/%E5%8D%95%E7%89%87%E6%9C%BA%E8%A3%B8%E6%9C%BA%E5%BC%80%E5%8F%91/S5PV210-S3C2440-S3C2410/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>STM32</title>
+    <link href="http://xiaoyao.ink/category/%E5%8D%95%E7%89%87%E6%9C%BA%E8%A3%B8%E6%9C%BA%E5%BC%80%E5%8F%91-STM32/"/>
+    <id>http://xiaoyao.ink/category/单片机裸机开发-STM32/</id>
+    <published>2019-04-06T23:23:33.000Z</published>
+    <updated>2019-04-07T00:27:41.424Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="单片机裸机开发" scheme="http://xiaoyao.ink/categories/%E5%8D%95%E7%89%87%E6%9C%BA%E8%A3%B8%E6%9C%BA%E5%BC%80%E5%8F%91/"/>
+    
+      <category term="STM32" scheme="http://xiaoyao.ink/categories/%E5%8D%95%E7%89%87%E6%9C%BA%E8%A3%B8%E6%9C%BA%E5%BC%80%E5%8F%91/STM32/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Android</title>
+    <link href="http://xiaoyao.ink/category/%E5%B5%8C%E5%85%A5%E5%BC%8F%E9%A9%B1%E5%8A%A8-Android/"/>
+    <id>http://xiaoyao.ink/category/嵌入式驱动-Android/</id>
+    <published>2019-04-06T23:22:37.000Z</published>
+    <updated>2019-04-07T00:27:41.449Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="嵌入式驱动" scheme="http://xiaoyao.ink/categories/%E5%B5%8C%E5%85%A5%E5%BC%8F%E9%A9%B1%E5%8A%A8/"/>
+    
+      <category term="Android" scheme="http://xiaoyao.ink/categories/%E5%B5%8C%E5%85%A5%E5%BC%8F%E9%A9%B1%E5%8A%A8/Android/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>设备驱动</title>
+    <link href="http://xiaoyao.ink/category/%E5%B5%8C%E5%85%A5%E5%BC%8F%E9%A9%B1%E5%8A%A8-%E8%AE%BE%E5%A4%87%E9%A9%B1%E5%8A%A8/"/>
+    <id>http://xiaoyao.ink/category/嵌入式驱动-设备驱动/</id>
+    <published>2019-04-06T23:22:05.000Z</published>
+    <updated>2019-04-07T00:27:41.446Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="嵌入式驱动" scheme="http://xiaoyao.ink/categories/%E5%B5%8C%E5%85%A5%E5%BC%8F%E9%A9%B1%E5%8A%A8/"/>
+    
+      <category term="设备驱动" scheme="http://xiaoyao.ink/categories/%E5%B5%8C%E5%85%A5%E5%BC%8F%E9%A9%B1%E5%8A%A8/%E8%AE%BE%E5%A4%87%E9%A9%B1%E5%8A%A8/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>面试宝典</title>
+    <link href="http://xiaoyao.ink/category/%E9%9D%A2%E8%AF%95%E5%AE%9D%E5%85%B8/"/>
+    <id>http://xiaoyao.ink/category/面试宝典/</id>
+    <published>2019-04-06T23:20:13.000Z</published>
+    <updated>2019-04-07T00:27:41.460Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="面试宝典" scheme="http://xiaoyao.ink/categories/%E9%9D%A2%E8%AF%95%E5%AE%9D%E5%85%B8/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>AI/人工智能</title>
+    <link href="http://xiaoyao.ink/category/AI-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
+    <id>http://xiaoyao.ink/category/AI-人工智能/</id>
+    <published>2019-04-06T23:19:56.000Z</published>
+    <updated>2019-04-07T00:27:41.453Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="AI/人工智能" scheme="http://xiaoyao.ink/categories/AI-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Uboot/Kernel</title>
+    <link href="http://xiaoyao.ink/category/%E5%B5%8C%E5%85%A5%E5%BC%8F%E9%A9%B1%E5%8A%A8-Uboot/"/>
+    <id>http://xiaoyao.ink/category/嵌入式驱动-Uboot/</id>
+    <published>2019-04-06T23:19:23.000Z</published>
+    <updated>2019-04-07T00:27:41.440Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="嵌入式驱动" scheme="http://xiaoyao.ink/categories/%E5%B5%8C%E5%85%A5%E5%BC%8F%E9%A9%B1%E5%8A%A8/"/>
+    
+      <category term="Uboot/Kernel" scheme="http://xiaoyao.ink/categories/%E5%B5%8C%E5%85%A5%E5%BC%8F%E9%A9%B1%E5%8A%A8/Uboot-Kernel/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>51单片机</title>
+    <link href="http://xiaoyao.ink/category/%E5%8D%95%E7%89%87%E6%9C%BA%E8%A3%B8%E6%9C%BA%E5%BC%80%E5%8F%91-51%E5%8D%95%E7%89%87%E6%9C%BA/"/>
+    <id>http://xiaoyao.ink/category/单片机裸机开发-51单片机/</id>
+    <published>2019-04-06T23:18:18.000Z</published>
+    <updated>2019-04-07T00:27:41.421Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="单片机裸机开发" scheme="http://xiaoyao.ink/categories/%E5%8D%95%E7%89%87%E6%9C%BA%E8%A3%B8%E6%9C%BA%E5%BC%80%E5%8F%91/"/>
+    
+      <category term="51单片机" scheme="http://xiaoyao.ink/categories/%E5%8D%95%E7%89%87%E6%9C%BA%E8%A3%B8%E6%9C%BA%E5%BC%80%E5%8F%91/51%E5%8D%95%E7%89%87%E6%9C%BA/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>网页设计</title>
+    <link href="http://xiaoyao.ink/category/%E7%BD%91%E9%A1%B5%E8%AE%BE%E8%AE%A1/"/>
+    <id>http://xiaoyao.ink/category/网页设计/</id>
+    <published>2019-04-06T23:17:55.000Z</published>
+    <updated>2019-04-07T00:27:41.457Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="网页设计" scheme="http://xiaoyao.ink/categories/%E7%BD%91%E9%A1%B5%E8%AE%BE%E8%AE%A1/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Makefile</title>
+    <link href="http://xiaoyao.ink/category/%E5%B5%8C%E5%85%A5%E5%BC%8F%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86-Makefile/"/>
+    <id>http://xiaoyao.ink/category/嵌入式基础知识-Makefile/</id>
+    <published>2019-04-06T23:17:35.000Z</published>
+    <updated>2019-04-07T00:27:41.430Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="嵌入式基础知识" scheme="http://xiaoyao.ink/categories/%E5%B5%8C%E5%85%A5%E5%BC%8F%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/"/>
+    
+      <category term="Makefile" scheme="http://xiaoyao.ink/categories/%E5%B5%8C%E5%85%A5%E5%BC%8F%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/Makefile/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>算法</title>
+    <link href="http://xiaoyao.ink/category/%E7%AE%97%E6%B3%95/"/>
+    <id>http://xiaoyao.ink/category/算法/</id>
+    <published>2019-04-06T23:16:43.000Z</published>
+    <updated>2019-04-07T00:27:41.418Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="算法" scheme="http://xiaoyao.ink/categories/%E7%AE%97%E6%B3%95/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>C</title>
+    <link href="http://xiaoyao.ink/category/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80-C/"/>
+    <id>http://xiaoyao.ink/category/编程语言-C/</id>
+    <published>2019-04-06T23:16:00.000Z</published>
+    <updated>2019-04-07T10:29:26.477Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="编程语言" scheme="http://xiaoyao.ink/categories/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/"/>
+    
+      <category term="C" scheme="http://xiaoyao.ink/categories/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/C/"/>
+    
+    
+  </entry>
+  
+</feed>

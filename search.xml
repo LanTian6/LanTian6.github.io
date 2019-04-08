@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2Fcategory%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[test]]></title>
+    <url>%2Fcategory%2Ftest%2F</url>
+    <content type="text"><![CDATA[这是摘要 这是全文]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[标签]]></title>
+    <url>%2Fcategory%2F%E6%A0%87%E7%AD%BE%2F</url>
+    <content type="text"></content>
+      <tags>
+        <tag>C</tag>
+        <tag>STM32</tag>
+        <tag>算法</tag>
+        <tag>S5PV210/S3C2440/S3C2410</tag>
+        <tag>C++</tag>
+        <tag>Uboot/Kernel</tag>
+        <tag>Makefile</tag>
+        <tag>设备驱动</tag>
+        <tag>Phython</tag>
+        <tag>链接脚本</tag>
+        <tag>AI/人工智能</tag>
+        <tag>面试宝典</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[JAVA]]></title>
+    <url>%2Fcategory%2F%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80-JAVA%2F</url>
+    <content type="text"></content>
+      <categories>
+        <category>编程语言</category>
+        <category>JAVA</category>
+      </categories>
+  </entry>
+  <entry>
+    <title><![CDATA[Phython]]></title>
+    <url>%2Fcategory%2F%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80-Phython%2F</url>
+    <content type="text"></content>
+      <categories>
+        <category>编程语言</category>
+        <category>Phython</category>
+      </categories>
+  </entry>
+  <entry>
+    <title><![CDATA[C++]]></title>
+    <url>%2Fcategory%2F%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80-C%2B%2B%2F</url>
+    <content type="text"></content>
+      <categories>
+        <category>编程语言</category>
+        <category>C++</category>
+      </categories>
+  </entry>
+  <entry>
+    <title><![CDATA[调试技巧]]></title>
+    <url>%2Fcategory%2F%E5%B5%8C%E5%85%A5%E5%BC%8F%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86-%E8%B0%83%E8%AF%95%E6%8A%80%E5%B7%A7%2F</url>
+    <content type="text"></content>
+      <categories>
+        <category>嵌入式基础知识</category>
+        <category>调试技巧</category>
+      </categories>
+  </entry>
+  <entry>
+    <title><![CDATA[链接脚本]]></title>
+    <url>%2Fcategory%2F%E5%B5%8C%E5%85%A5%E5%BC%8F%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86-%E9%93%BE%E6%8E%A5%E8%84%9A%E6%9C%AC%2F</url>
+    <content type="text"></content>
+      <categories>
+        <category>嵌入式基础知识</category>
+        <category>链接脚本</category>
+      </categories>
+  </entry>
+  <entry>
+    <title><![CDATA[S5PV210/S3C2440/S3C2410]]></title>
+    <url>%2Fcategory%2F%E5%8D%95%E7%89%87%E6%9C%BA%E8%A3%B8%E6%9C%BA%E5%BC%80%E5%8F%91-S5PV210%2F</url>
+    <content type="text"></content>
+      <categories>
+        <category>单片机裸机开发</category>
+        <category>S5PV210/S3C2440/S3C2410</category>
+      </categories>
+  </entry>
+  <entry>
+    <title><![CDATA[STM32]]></title>
+    <url>%2Fcategory%2F%E5%8D%95%E7%89%87%E6%9C%BA%E8%A3%B8%E6%9C%BA%E5%BC%80%E5%8F%91-STM32%2F</url>
+    <content type="text"></content>
+      <categories>
+        <category>单片机裸机开发</category>
+        <category>STM32</category>
+      </categories>
+  </entry>
+  <entry>
+    <title><![CDATA[Android]]></title>
+    <url>%2Fcategory%2F%E5%B5%8C%E5%85%A5%E5%BC%8F%E9%A9%B1%E5%8A%A8-Android%2F</url>
+    <content type="text"></content>
+      <categories>
+        <category>嵌入式驱动</category>
+        <category>Android</category>
+      </categories>
+  </entry>
+  <entry>
+    <title><![CDATA[设备驱动]]></title>
+    <url>%2Fcategory%2F%E5%B5%8C%E5%85%A5%E5%BC%8F%E9%A9%B1%E5%8A%A8-%E8%AE%BE%E5%A4%87%E9%A9%B1%E5%8A%A8%2F</url>
+    <content type="text"></content>
+      <categories>
+        <category>嵌入式驱动</category>
+        <category>设备驱动</category>
+      </categories>
+  </entry>
+  <entry>
+    <title><![CDATA[面试宝典]]></title>
+    <url>%2Fcategory%2F%E9%9D%A2%E8%AF%95%E5%AE%9D%E5%85%B8%2F</url>
+    <content type="text"></content>
+      <categories>
+        <category>面试宝典</category>
+      </categories>
+  </entry>
+  <entry>
+    <title><![CDATA[AI/人工智能]]></title>
+    <url>%2Fcategory%2FAI-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%2F</url>
+    <content type="text"></content>
+      <categories>
+        <category>AI/人工智能</category>
+      </categories>
+  </entry>
+  <entry>
+    <title><![CDATA[Uboot/Kernel]]></title>
+    <url>%2Fcategory%2F%E5%B5%8C%E5%85%A5%E5%BC%8F%E9%A9%B1%E5%8A%A8-Uboot%2F</url>
+    <content type="text"></content>
+      <categories>
+        <category>嵌入式驱动</category>
+        <category>Uboot/Kernel</category>
+      </categories>
+  </entry>
+  <entry>
+    <title><![CDATA[51单片机]]></title>
+    <url>%2Fcategory%2F%E5%8D%95%E7%89%87%E6%9C%BA%E8%A3%B8%E6%9C%BA%E5%BC%80%E5%8F%91-51%E5%8D%95%E7%89%87%E6%9C%BA%2F</url>
+    <content type="text"></content>
+      <categories>
+        <category>单片机裸机开发</category>
+        <category>51单片机</category>
+      </categories>
+  </entry>
+  <entry>
+    <title><![CDATA[网页设计]]></title>
+    <url>%2Fcategory%2F%E7%BD%91%E9%A1%B5%E8%AE%BE%E8%AE%A1%2F</url>
+    <content type="text"></content>
+      <categories>
+        <category>网页设计</category>
+      </categories>
+  </entry>
+  <entry>
+    <title><![CDATA[Makefile]]></title>
+    <url>%2Fcategory%2F%E5%B5%8C%E5%85%A5%E5%BC%8F%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86-Makefile%2F</url>
+    <content type="text"></content>
+      <categories>
+        <category>嵌入式基础知识</category>
+        <category>Makefile</category>
+      </categories>
+  </entry>
+  <entry>
+    <title><![CDATA[算法]]></title>
+    <url>%2Fcategory%2F%E7%AE%97%E6%B3%95%2F</url>
+    <content type="text"></content>
+      <categories>
+        <category>算法</category>
+      </categories>
+  </entry>
+  <entry>
+    <title><![CDATA[C]]></title>
+    <url>%2Fcategory%2F%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80-C%2F</url>
+    <content type="text"></content>
+      <categories>
+        <category>编程语言</category>
+        <category>C</category>
+      </categories>
+  </entry>
+</search>
