@@ -1994,7 +1994,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #daff55;
+  background: #ff966b;
 }
 .feed-link,
 .chat {
@@ -2627,7 +2627,11 @@ ul.breadcrumb li+li:last-child {
     width: auto;
   }
 }
-.header-inner {
+<meta name="viewport"content="width=device-width,
+initial-scale=1.0,
+minimum-scale=1.0,
+maximum-scale=1.0,
+user-scalable=no"/> {
   position: absolute;
   top: 0;
   overflow: hidden;
@@ -2638,12 +2642,20 @@ ul.breadcrumb li+li:last-child {
   background: rgba(255,251,240,0.7);
 }
 @media (min-width: 1200px) {
-  .container .header-inner {
+  .container <meta name="viewport"content="width=device-width,
+  .container initial-scale=1.0,
+  .container minimum-scale=1.0,
+  .container maximum-scale=1.0,
+  .container user-scalable=no"/> {
     width: 240px;
   }
 }
 @media (max-width: 991px) {
-  .header-inner {
+  <meta name="viewport"content="width=device-width,
+  initial-scale=1.0,
+  minimum-scale=1.0,
+  maximum-scale=1.0,
+  user-scalable=no"/> {
     position: relative;
     width: auto;
     border-radius: initial;
