@@ -1994,7 +1994,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #09d2ad;
+  background: #ff36ff;
 }
 .feed-link,
 .chat {
@@ -3037,10 +3037,10 @@ ul.breadcrumb li+li:last-child {
   -moz-box-shadow: 0 0 5px rgba(202,203,204,0.5);
 }
 * {
-  cursor: url("/images/鼠标手.icon"), auto !important;
+  cursor: url("/images/鼠标手.icon"),;
 }
 :active {
-  cursor: url("/images/鼠标.icon"), auto !important;
+  cursor: url("/images/鼠标.icon"),;
 }
 body {
   background: url("/images/a.jpg") no-repeat;
