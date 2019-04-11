@@ -1128,6 +1128,11 @@ pre .javascript .function {
   font-size: 13px;
   color: #ddd;
 }
+@media (max-width: 767px) {
+  .site-subtitle {
+    display: none;
+  }
+}
 .use-motion .brand {
   opacity: 0;
 }
@@ -1793,12 +1798,10 @@ pre .javascript .function {
 .post-body p a {
   color: #0593d3;
   border-bottom: none;
-  border-bottom: 1px solid #0593d3;
 }
 .post-body p a:hover {
-  color: #fc6423;
-  border-bottom: none;
-  border-bottom: 1px solid #fc6423;
+  color: #0477ab;
+  text-decoration: underline;
 }
 .sidebar {
   position: fixed;
@@ -1994,7 +1997,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #a7b171;
+  background: #ff54ff;
 }
 .feed-link,
 .chat {
@@ -2289,7 +2292,7 @@ img:hover {
 }
 .local-search-popup p.search-result {
   border-bottom: 1px dashed #ccc;
-  padding: 5px 0;
+  padding: 5px 0 2px 0;
 }
 .local-search-popup a.search-result-title {
   font-weight: bold;
@@ -2297,6 +2300,7 @@ img:hover {
 }
 .local-search-popup .search-keyword {
   border-bottom: 1px dashed #f00;
+  font-size: 14px;
   font-weight: bold;
   color: #f00;
 }
@@ -2354,6 +2358,9 @@ img:hover {
   top: 50%;
   transform: translate(-50%, -50%);
   color: #ccc;
+}
+.local-search-popup .popup .fa-search {
+  padding: 8px 0;
 }
 .popular-posts-header {
   margin-top: 60px;
