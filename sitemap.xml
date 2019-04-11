@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://xiaoyao.ink/category/hello-world/</loc>
+    
+    <lastmod>2019-04-11T13:32:59.717Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://xiaoyao.ink/category/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80-C++/</loc>
+    
+    <lastmod>2019-04-11T13:32:26.783Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://xiaoyao.ink/category/%E5%B5%8C%E5%85%A5%E5%BC%8F%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86-%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80/</loc>
     
     <lastmod>2019-04-09T11:06:06.889Z</lastmod>
@@ -19,13 +33,6 @@
     <loc>http://xiaoyao.ink/category/%E5%B5%8C%E5%85%A5%E5%BC%8F%E9%A9%B1%E5%8A%A8-%E8%AE%BE%E5%A4%87%E9%A9%B1%E5%8A%A8/</loc>
     
     <lastmod>2019-04-09T11:05:20.935Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://xiaoyao.ink/category/%E9%9D%A2%E8%AF%95%E5%AE%9D%E5%85%B8/</loc>
-    
-    <lastmod>2019-04-09T11:05:20.750Z</lastmod>
     
   </url>
   
@@ -65,7 +72,14 @@
   </url>
   
   <url>
-    <loc>http://xiaoyao.ink/category/%E5%B5%8C%E5%85%A5%E5%BC%8F%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86-Makefile/</loc>
+    <loc>http://xiaoyao.ink/category/%E9%9D%A2%E8%AF%95%E5%AE%9D%E5%85%B8/</loc>
+    
+    <lastmod>2019-04-09T11:05:20.750Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://xiaoyao.ink/category/%E5%B5%8C%E5%85%A5%E5%BC%8F%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86-%E9%93%BE%E6%8E%A5%E8%84%9A%E6%9C%AC/</loc>
     
     <lastmod>2019-04-09T11:05:20.749Z</lastmod>
     
@@ -93,7 +107,7 @@
   </url>
   
   <url>
-    <loc>http://xiaoyao.ink/category/%E5%B5%8C%E5%85%A5%E5%BC%8F%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86-%E9%93%BE%E6%8E%A5%E8%84%9A%E6%9C%AC/</loc>
+    <loc>http://xiaoyao.ink/category/%E5%B5%8C%E5%85%A5%E5%BC%8F%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86-Makefile/</loc>
     
     <lastmod>2019-04-09T11:05:20.749Z</lastmod>
     
@@ -107,13 +121,6 @@
   </url>
   
   <url>
-    <loc>http://xiaoyao.ink/category/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80-Phython/</loc>
-    
-    <lastmod>2019-04-09T11:02:32.834Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://xiaoyao.ink/category/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95/</loc>
     
     <lastmod>2019-04-09T11:02:32.834Z</lastmod>
@@ -121,14 +128,14 @@
   </url>
   
   <url>
-    <loc>http://xiaoyao.ink/category/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80-JAVA/</loc>
+    <loc>http://xiaoyao.ink/category/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80-Phython/</loc>
     
-    <lastmod>2019-04-09T11:02:32.830Z</lastmod>
+    <lastmod>2019-04-09T11:02:32.834Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://xiaoyao.ink/category/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80-C++/</loc>
+    <loc>http://xiaoyao.ink/category/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80-JAVA/</loc>
     
     <lastmod>2019-04-09T11:02:32.830Z</lastmod>
     
