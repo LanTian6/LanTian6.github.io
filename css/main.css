@@ -1997,7 +1997,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #71d7ff;
+  background: #e86305;
 }
 .feed-link,
 .chat {
@@ -2688,7 +2688,7 @@ ul.breadcrumb li+li:last-child {
 }
 @media (max-width: 767px) {
   .content-wrap {
-    width: auto;
+    width: 100%;
     padding: 5px;
     min-height: auto;
     border-radius: initial;
