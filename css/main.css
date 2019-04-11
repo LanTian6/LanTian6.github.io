@@ -1997,7 +1997,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #7efff0;
+  background: #29951c;
 }
 .feed-link,
 .chat {
@@ -3079,7 +3079,6 @@ img.img-topic {
 }
 .content {
   border-radius: 20px;
-  padding: 8px;
   background: rgba(255,255,255,0) none repeat scroll !important;
   width: 100%;
 }
@@ -3187,4 +3186,8 @@ a#download:hover {
   transition-duration: 0.2s;
   transition-timing-function: ease-in-out;
   transition-delay: 0s;
+}
+.posts-expand {
+  margin: initial;
+  padding-top: initial;
 }
