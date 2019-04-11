@@ -1997,7 +1997,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #1fcf8a;
+  background: #7efff0;
 }
 .feed-link,
 .chat {
@@ -3079,6 +3079,7 @@ img.img-topic {
 }
 .content {
   border-radius: 20px;
+  padding: 8px;
   background: rgba(255,255,255,0) none repeat scroll !important;
   width: 100%;
 }
