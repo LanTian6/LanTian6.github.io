@@ -1997,7 +1997,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #187711;
+  background: #ff96ff;
 }
 .feed-link,
 .chat {
@@ -3067,7 +3067,7 @@ body {
 }
 .out-img-topic {
   display: block;
-  max-height: 500px;
+  max-height: 400px;
   margin-bottom: 24px;
   overflow: hidden;
 }
@@ -3191,6 +3191,4 @@ a#download:hover {
 }
 .posts-expand {
   padding-top: initial;
-  padding: 3px;
-  border: 1px solid #ddd;
 }
