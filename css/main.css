@@ -1997,7 +1997,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #fff;
+  background: #ff6612;
 }
 .feed-link,
 .chat {
@@ -3062,7 +3062,6 @@ body {
   background-size: cover;
 /* 设置背景颜色，背景图加载过程中会显示背景色 */
   background-color: rgba(255,255,255,0.7);
-  line-height: 2;
 }
 .header {
   background: url("") none repeat scroll !important;
@@ -3193,23 +3192,4 @@ a#download:hover {
 }
 .posts-expand {
   padding-top: initial;
-}
-.posts-expand .post-body .fancybox img {
-  margin: 0 auto 25px;
-}
-.posts-expand .post-body img {
-  box-sizing: border-box;
-  margin: auto;
-  padding: 3px;
-  border: 1px solid #ddd;
-}
-img {
-  max-width: 100%;
-  height: auto;
-}
-.post-block {
-  padding: 40px;
-  background: #fff;
-  box-shadow: 0 2px 2px 0 rgba(0,0,0,0.12), 0 3px 1px -2px rgba(0,0,0,0.06), 0 1px 5px 0 rgba(0,0,0,0.12);
-  border-radius: initial;
 }
