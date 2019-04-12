@@ -1997,7 +1997,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ffad8c;
+  background: #eedb55;
 }
 .feed-link,
 .chat {
@@ -3040,6 +3040,7 @@ ul.breadcrumb li+li:last-child {
   margin-bottom: 30px;
   padding-top: 25px;
   padding-right: 25px;
+  padding-bottom: 10px;
   padding-left: 25px;
   background: rgba(255,255,255,0.9) none repeat scroll !important;
   -webkit-box-shadow: 0 0 5px rgba(202,203,203,0.5);
