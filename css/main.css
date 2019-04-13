@@ -1995,7 +1995,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #388537;
+  background: #0a91f2;
 }
 .feed-link,
 .chat {
@@ -3196,6 +3196,17 @@ a#download:hover {
 }
 .category-list ul li:before {
   content: '>> ';
+}
+.hider_title {
+  font-family: "Microsoft Yahei";
+  cursor: pointer;
+  color: #ef4a05;
+}
+.close:after {
+  content: " ▼";
+}
+.open:after {
+  content: " ▲";
 }
 footer {
   color: #eee;
