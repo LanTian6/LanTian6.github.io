@@ -178,6 +178,23 @@
   };
 </script>
 
+<script src="\js\src\custom\instantclick.min.js" data-no-instant></script>
+   <script data-no-instant>
+   InstantClick.on('change', function(isInitialLoad) {
+     if (isInitialLoad === false) {
+       if (typeof MathJax !== 'undefined') // support MathJax
+         MathJax.Hub.Queue(["Typeset",MathJax.Hub]);
+       if (typeof prettyPrint !== 'undefined') // support google code prettify
+         prettyPrint();
+       if (typeof _hmt !== 'undefined')  // support 百度统计
+         _hmt.push(['_trackPageview', location.pathname + location.search]);
+       if (typeof ga !== 'undefined')  // support google analytics
+           ga('send', 'pageview', location.pathname + location.search);
+     }
+   });
+   InstantClick.init();
+</script>
+
 
   
 
@@ -214,7 +231,7 @@
   };
 </script>
 
-  <title>分类: C++ | XIAO | Free's blog</title>
+  <title>分类: C | XIAO | Free's blog</title>
   
 
 
@@ -496,7 +513,7 @@
 
     <div id="posts" class="posts-collapse">
       <div class="collection-title">
-        <h2>C++<small>分类</small>
+        <h2>C<small>分类</small>
         </h2>
       </div>
 
@@ -518,16 +535,47 @@
 
       <h3 class="post-title">
         
-          <a class="post-title-link" href="/category/编程语言-C++/" itemprop="url">
+          <a class="post-title-link" href="/category/编程语言-Phython/" itemprop="url">
             
-              <span itemprop="name">编程语言-C++</span>
+              <span itemprop="name">编程语言-Phython</span>
             
           </a>
         
       </h3>
 
       <div class="post-meta">
-        <time class="post-time" itemprop="dateCreated" datetime="2019-04-09T15:50:02+08:00" content="2019-04-09">
+        <time class="post-time" itemprop="dateCreated" datetime="2019-04-09T15:50:58+08:00" content="2019-04-09">
+          04-09
+        </time>
+      </div>
+
+    </header>
+  </article>
+
+
+      
+        
+        
+        
+        
+        
+        
+
+  <article class="post post-type-categories" itemscope itemtype="http://schema.org/Article">
+    <header class="post-header">
+
+      <h3 class="post-title">
+        
+          <a class="post-title-link" href="/category/编程语言-C/" itemprop="url">
+            
+              <span itemprop="name">编程语言-C</span>
+            
+          </a>
+        
+      </h3>
+
+      <div class="post-meta">
+        <time class="post-time" itemprop="dateCreated" datetime="2019-04-09T15:49:50+08:00" content="2019-04-09">
           04-09
         </time>
       </div>
