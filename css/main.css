@@ -1995,7 +1995,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #32ff75;
+  background: #ffbaad;
 }
 .feed-link,
 .chat {
@@ -3190,6 +3190,12 @@ a#download:hover {
 }
 .posts-expand {
   padding-top: initial;
+}
+.category-list ul {
+  list-style: none;
+}
+.category-list ul li:before {
+  content: '>> ';
 }
 footer {
   color: #eee;
