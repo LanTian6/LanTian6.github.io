@@ -1218,6 +1218,7 @@ pre .javascript .function {
   overflow-wrap: break-word;
   word-wrap: break-word;
   font-family: 'Lato // 挑选的字体', "PingFang SC", "Microsoft YaHei", sans-serif;
+  height: 480px;
 }
 .post-body span.exturl .fa {
   font-size: 14px;
@@ -1985,7 +1986,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ffe4b6;
+  background: #f27f24;
 }
 .feed-link,
 .chat {
