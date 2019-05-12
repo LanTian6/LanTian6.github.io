@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[外设位宽8、16、32时，CPU与外设之间的关系]]></title>
+    <url>%2Fcategory%2F1%2F</url>
+    <content type="text"></content>
+      <categories>
+        <category>单片机</category>
+        <category>S5PV210/S3C2410</category>
+      </categories>
+  </entry>
+  <entry>
+    <title><![CDATA[内存相关知识]]></title>
+    <url>%2Fcategory%2F1%2F</url>
+    <content type="text"></content>
+      <categories>
+        <category>单片机</category>
+        <category>S5PV210/S3C2410</category>
+      </categories>
+  </entry>
+  <entry>
     <title><![CDATA[面试宝典]]></title>
     <url>%2Fcategory%2F1%2F</url>
     <content type="text"></content>
@@ -23,7 +41,7 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[项目]]></title>
+    <title><![CDATA[用Phython编写人脸识别]]></title>
     <url>%2Fcategory%2F1%2F</url>
     <content type="text"></content>
       <categories>
@@ -31,7 +49,7 @@
       </categories>
   </entry>
   <entry>
-    <title><![CDATA[设备驱动]]></title>
+    <title><![CDATA[字符设备驱动讲解]]></title>
     <url>%2Fcategory%2F1%2F</url>
     <content type="text"></content>
       <categories>
@@ -39,7 +57,7 @@
       </categories>
   </entry>
   <entry>
-    <title><![CDATA[Uboot/Kernel]]></title>
+    <title><![CDATA[Uboot之启动过程]]></title>
     <url>%2Fcategory%2F1%2F</url>
     <content type="text"></content>
       <categories>
@@ -47,7 +65,7 @@
       </categories>
   </entry>
   <entry>
-    <title><![CDATA[调试技巧]]></title>
+    <title><![CDATA[STM32调试技巧]]></title>
     <url>%2Fcategory%2F1%2F</url>
     <content type="text"></content>
       <categories>
@@ -56,7 +74,7 @@
       </categories>
   </entry>
   <entry>
-    <title><![CDATA[链接脚本]]></title>
+    <title><![CDATA[浅谈text段、data段、bss段]]></title>
     <url>%2Fcategory%2F1%2F</url>
     <content type="text"></content>
       <categories>
@@ -65,7 +83,7 @@
       </categories>
   </entry>
   <entry>
-    <title><![CDATA[Makefile]]></title>
+    <title><![CDATA[gcc和Makefile]]></title>
     <url>%2Fcategory%2F1%2F</url>
     <content type="text"></content>
       <categories>
@@ -74,7 +92,7 @@
       </categories>
   </entry>
   <entry>
-    <title><![CDATA[S5PV210/S3C2410]]></title>
+    <title><![CDATA[串口、COM口、TTL、MAX232详解]]></title>
     <url>%2Fcategory%2F1%2F</url>
     <content type="text"></content>
       <categories>
@@ -83,7 +101,7 @@
       </categories>
   </entry>
   <entry>
-    <title><![CDATA[STM32]]></title>
+    <title><![CDATA[STM32的四种输入输出模式详解]]></title>
     <url>%2Fcategory%2F1%2F</url>
     <content type="text"></content>
       <categories>
@@ -92,7 +110,7 @@
       </categories>
   </entry>
   <entry>
-    <title><![CDATA[51]]></title>
+    <title><![CDATA[51之总结]]></title>
     <url>%2Fcategory%2F1%2F</url>
     <content type="text"></content>
       <categories>
@@ -119,7 +137,7 @@
       </categories>
   </entry>
   <entry>
-    <title><![CDATA[C]]></title>
+    <title><![CDATA[指针的用法]]></title>
     <url>%2Fcategory%2F1%2F</url>
     <content type="text"></content>
       <categories>
@@ -128,7 +146,7 @@
       </categories>
   </entry>
   <entry>
-    <title><![CDATA[Hexo]]></title>
+    <title><![CDATA[Hexo建站]]></title>
     <url>%2Fcategory%2F1%2F</url>
     <content type="text"></content>
       <tags>

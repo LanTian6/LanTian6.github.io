@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://xiaoyao.ink/"/>
-  <updated>2019-05-12T01:08:24.328Z</updated>
+  <updated>2019-05-12T01:33:36.125Z</updated>
   <id>http://xiaoyao.ink/</id>
   
   <author>
@@ -17,11 +17,47 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>外设位宽8、16、32时，CPU与外设之间的关系</title>
+    <link href="http://xiaoyao.ink/category/1/"/>
+    <id>http://xiaoyao.ink/category/1/</id>
+    <published>2019-05-12T01:32:13.000Z</published>
+    <updated>2019-05-12T01:33:36.125Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="单片机" scheme="http://xiaoyao.ink/categories/%E5%8D%95%E7%89%87%E6%9C%BA/"/>
+    
+      <category term="S5PV210/S3C2410" scheme="http://xiaoyao.ink/categories/%E5%8D%95%E7%89%87%E6%9C%BA/S5PV210-S3C2410/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>内存相关知识</title>
+    <link href="http://xiaoyao.ink/category/1/"/>
+    <id>http://xiaoyao.ink/category/1/</id>
+    <published>2019-05-12T01:31:08.000Z</published>
+    <updated>2019-05-12T01:33:36.122Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="单片机" scheme="http://xiaoyao.ink/categories/%E5%8D%95%E7%89%87%E6%9C%BA/"/>
+    
+      <category term="S5PV210/S3C2410" scheme="http://xiaoyao.ink/categories/%E5%8D%95%E7%89%87%E6%9C%BA/S5PV210-S3C2410/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>面试宝典</title>
     <link href="http://xiaoyao.ink/category/1/"/>
     <id>http://xiaoyao.ink/category/1/</id>
     <published>2019-05-12T00:55:14.000Z</published>
-    <updated>2019-05-12T01:08:24.328Z</updated>
+    <updated>2019-05-12T01:20:27.334Z</updated>
     
     <summary type="html">
     
@@ -39,7 +75,7 @@
     <link href="http://xiaoyao.ink/category/1/"/>
     <id>http://xiaoyao.ink/category/1/</id>
     <published>2019-05-12T00:54:34.000Z</published>
-    <updated>2019-05-12T00:58:30.436Z</updated>
+    <updated>2019-05-12T01:33:36.134Z</updated>
     
     <summary type="html">
     
@@ -53,11 +89,11 @@
   </entry>
   
   <entry>
-    <title>项目</title>
+    <title>用Phython编写人脸识别</title>
     <link href="http://xiaoyao.ink/category/1/"/>
     <id>http://xiaoyao.ink/category/1/</id>
     <published>2019-05-12T00:53:58.000Z</published>
-    <updated>2019-05-12T01:08:24.325Z</updated>
+    <updated>2019-05-12T01:33:36.132Z</updated>
     
     <summary type="html">
     
@@ -69,11 +105,11 @@
   </entry>
   
   <entry>
-    <title>设备驱动</title>
+    <title>字符设备驱动讲解</title>
     <link href="http://xiaoyao.ink/category/1/"/>
     <id>http://xiaoyao.ink/category/1/</id>
     <published>2019-05-12T00:53:23.000Z</published>
-    <updated>2019-05-12T01:08:24.323Z</updated>
+    <updated>2019-05-12T01:30:24.390Z</updated>
     
     <summary type="html">
     
@@ -85,11 +121,11 @@
   </entry>
   
   <entry>
-    <title>Uboot/Kernel</title>
+    <title>Uboot之启动过程</title>
     <link href="http://xiaoyao.ink/category/1/"/>
     <id>http://xiaoyao.ink/category/1/</id>
     <published>2019-05-12T00:52:42.000Z</published>
-    <updated>2019-05-12T01:08:24.322Z</updated>
+    <updated>2019-05-12T01:33:36.130Z</updated>
     
     <summary type="html">
     
@@ -101,11 +137,11 @@
   </entry>
   
   <entry>
-    <title>调试技巧</title>
+    <title>STM32调试技巧</title>
     <link href="http://xiaoyao.ink/category/1/"/>
     <id>http://xiaoyao.ink/category/1/</id>
     <published>2019-05-12T00:51:09.000Z</published>
-    <updated>2019-05-12T01:08:24.320Z</updated>
+    <updated>2019-05-12T01:33:36.128Z</updated>
     
     <summary type="html">
     
@@ -119,11 +155,11 @@
   </entry>
   
   <entry>
-    <title>链接脚本</title>
+    <title>浅谈text段、data段、bss段</title>
     <link href="http://xiaoyao.ink/category/1/"/>
     <id>http://xiaoyao.ink/category/1/</id>
     <published>2019-05-12T00:48:06.000Z</published>
-    <updated>2019-05-12T01:08:24.318Z</updated>
+    <updated>2019-05-12T01:33:36.127Z</updated>
     
     <summary type="html">
     
@@ -137,11 +173,11 @@
   </entry>
   
   <entry>
-    <title>Makefile</title>
+    <title>gcc和Makefile</title>
     <link href="http://xiaoyao.ink/category/1/"/>
     <id>http://xiaoyao.ink/category/1/</id>
     <published>2019-05-12T00:47:38.000Z</published>
-    <updated>2019-05-12T01:08:24.315Z</updated>
+    <updated>2019-05-12T01:33:36.126Z</updated>
     
     <summary type="html">
     
@@ -155,11 +191,11 @@
   </entry>
   
   <entry>
-    <title>S5PV210/S3C2410</title>
+    <title>串口、COM口、TTL、MAX232详解</title>
     <link href="http://xiaoyao.ink/category/1/"/>
     <id>http://xiaoyao.ink/category/1/</id>
     <published>2019-05-12T00:43:21.000Z</published>
-    <updated>2019-05-12T01:08:24.314Z</updated>
+    <updated>2019-05-12T01:30:24.381Z</updated>
     
     <summary type="html">
     
@@ -173,11 +209,11 @@
   </entry>
   
   <entry>
-    <title>STM32</title>
+    <title>STM32的四种输入输出模式详解</title>
     <link href="http://xiaoyao.ink/category/1/"/>
     <id>http://xiaoyao.ink/category/1/</id>
     <published>2019-05-12T00:42:42.000Z</published>
-    <updated>2019-05-12T01:08:24.312Z</updated>
+    <updated>2019-05-12T01:30:24.379Z</updated>
     
     <summary type="html">
     
@@ -191,11 +227,11 @@
   </entry>
   
   <entry>
-    <title>51</title>
+    <title>51之总结</title>
     <link href="http://xiaoyao.ink/category/1/"/>
     <id>http://xiaoyao.ink/category/1/</id>
     <published>2019-05-12T00:42:29.000Z</published>
-    <updated>2019-05-12T01:08:24.311Z</updated>
+    <updated>2019-05-12T01:30:24.376Z</updated>
     
     <summary type="html">
     
@@ -245,11 +281,11 @@
   </entry>
   
   <entry>
-    <title>C</title>
+    <title>指针的用法</title>
     <link href="http://xiaoyao.ink/category/1/"/>
     <id>http://xiaoyao.ink/category/1/</id>
     <published>2019-05-12T00:39:27.000Z</published>
-    <updated>2019-05-12T01:14:53.520Z</updated>
+    <updated>2019-05-12T01:30:24.374Z</updated>
     
     <summary type="html">
     
@@ -263,11 +299,11 @@
   </entry>
   
   <entry>
-    <title>Hexo</title>
+    <title>Hexo建站</title>
     <link href="http://xiaoyao.ink/category/1/"/>
     <id>http://xiaoyao.ink/category/1/</id>
     <published>2019-05-12T00:37:38.000Z</published>
-    <updated>2019-05-12T01:08:24.304Z</updated>
+    <updated>2019-05-12T01:30:24.372Z</updated>
     
     <summary type="html">
     
