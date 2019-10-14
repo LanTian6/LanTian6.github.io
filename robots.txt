@@ -10,4 +10,6 @@ Disallow: /css/
 Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /lib/
+
 Sitemap: https://www.xiayao.ink/sitemap.xml
+Sitemap: https://www.xiayao.ink/baidusitemap.xml
