@@ -1,15 +1,16 @@
-# welcome to : www.xiaoyao.ink 
+# welcome to : xiaoyao.ink 
 User-agent: *
 Allow: /
 Allow: /archives/
 Allow: /categories/
-Allow: /about/
+Allow: /tags/
 
 Disallow: /js/
 Disallow: /css/
 Disallow: /fonts/
 Disallow: /vendors/
-Disallow: /lib/
+Disallow: /vendors/
+Disallow: /fancybox/
 
-Sitemap: https://www.xiayao.ink/sitemap.xml
-Sitemap: https://www.xiayao.ink/baidusitemap.xml
+Sitemap: https://xiayao.ink/sitemap.xml
+Sitemap: https://xiayao.ink/baidusitemap.xml
