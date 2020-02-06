@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title><![CDATA[机械臂视觉小车机器人]]></title>
-    <url>%2F1.html</url>
+    <url>%2F1%2F</url>
     <content type="text"></content>
       <categories>
         <category>项目</category>
@@ -14,7 +14,7 @@
   </entry>
   <entry>
     <title><![CDATA[数码相框]]></title>
-    <url>%2F1.html</url>
+    <url>%2F1%2F</url>
     <content type="text"></content>
       <categories>
         <category>项目</category>
@@ -23,7 +23,7 @@
   </entry>
   <entry>
     <title><![CDATA[两轮平衡小车]]></title>
-    <url>%2F1.html</url>
+    <url>%2F1%2F</url>
     <content type="text"></content>
       <categories>
         <category>项目</category>
@@ -32,7 +32,7 @@
   </entry>
   <entry>
     <title><![CDATA[视觉小车]]></title>
-    <url>%2F1.html</url>
+    <url>%2F1%2F</url>
     <content type="text"></content>
       <categories>
         <category>项目</category>
@@ -41,7 +41,7 @@
   </entry>
   <entry>
     <title><![CDATA[6轴机械臂]]></title>
-    <url>%2F1.html</url>
+    <url>%2F1%2F</url>
     <content type="text"></content>
       <categories>
         <category>项目</category>
@@ -50,7 +50,7 @@
   </entry>
   <entry>
     <title><![CDATA[外设位宽8、16、32时，CPU与外设之间的关系]]></title>
-    <url>%2F1.html</url>
+    <url>%2F1%2F</url>
     <content type="text"></content>
       <categories>
         <category>单片机</category>
@@ -59,7 +59,7 @@
   </entry>
   <entry>
     <title><![CDATA[内存相关知识]]></title>
-    <url>%2F1.html</url>
+    <url>%2F1%2F</url>
     <content type="text"></content>
       <categories>
         <category>单片机</category>
@@ -68,7 +68,7 @@
   </entry>
   <entry>
     <title><![CDATA[面试宝典]]></title>
-    <url>%2F1.html</url>
+    <url>%2F1%2F</url>
     <content type="text"></content>
       <categories>
         <category>面试宝典</category>
@@ -79,7 +79,7 @@
   </entry>
   <entry>
     <title><![CDATA[AI]]></title>
-    <url>%2F1.html</url>
+    <url>%2F1%2F</url>
     <content type="text"></content>
       <categories>
         <category>AI</category>
@@ -90,7 +90,7 @@
   </entry>
   <entry>
     <title><![CDATA[用Phython编写人脸识别]]></title>
-    <url>%2F1.html</url>
+    <url>%2F1%2F</url>
     <content type="text"></content>
       <categories>
         <category>项目</category>
@@ -98,7 +98,7 @@
   </entry>
   <entry>
     <title><![CDATA[字符设备驱动讲解]]></title>
-    <url>%2F1.html</url>
+    <url>%2F1%2F</url>
     <content type="text"></content>
       <categories>
         <category>设备驱动</category>
@@ -106,7 +106,7 @@
   </entry>
   <entry>
     <title><![CDATA[Uboot之启动过程]]></title>
-    <url>%2F1.html</url>
+    <url>%2F1%2F</url>
     <content type="text"></content>
       <categories>
         <category>Uboot/Kernel</category>
@@ -114,7 +114,7 @@
   </entry>
   <entry>
     <title><![CDATA[STM32调试技巧]]></title>
-    <url>%2F1.html</url>
+    <url>%2F1%2F</url>
     <content type="text"></content>
       <categories>
         <category>嵌入式基础</category>
@@ -123,7 +123,7 @@
   </entry>
   <entry>
     <title><![CDATA[浅谈text段、data段、bss段]]></title>
-    <url>%2F1.html</url>
+    <url>%2F1%2F</url>
     <content type="text"></content>
       <categories>
         <category>嵌入式基础</category>
@@ -132,7 +132,7 @@
   </entry>
   <entry>
     <title><![CDATA[gcc和Makefile]]></title>
-    <url>%2F1.html</url>
+    <url>%2F1%2F</url>
     <content type="text"></content>
       <categories>
         <category>嵌入式基础</category>
@@ -141,7 +141,7 @@
   </entry>
   <entry>
     <title><![CDATA[串口、COM口、TTL、MAX232详解]]></title>
-    <url>%2F1.html</url>
+    <url>%2F1%2F</url>
     <content type="text"></content>
       <categories>
         <category>单片机</category>
@@ -150,7 +150,7 @@
   </entry>
   <entry>
     <title><![CDATA[STM32的四种输入输出模式详解]]></title>
-    <url>%2F1.html</url>
+    <url>%2F1%2F</url>
     <content type="text"></content>
       <categories>
         <category>单片机</category>
@@ -159,7 +159,7 @@
   </entry>
   <entry>
     <title><![CDATA[51之总结]]></title>
-    <url>%2F1.html</url>
+    <url>%2F1%2F</url>
     <content type="text"></content>
       <categories>
         <category>单片机</category>
@@ -168,7 +168,7 @@
   </entry>
   <entry>
     <title><![CDATA[C++]]></title>
-    <url>%2F1.html</url>
+    <url>%2F1%2F</url>
     <content type="text"></content>
       <categories>
         <category>编程语言</category>
@@ -177,7 +177,7 @@
   </entry>
   <entry>
     <title><![CDATA[Phython]]></title>
-    <url>%2F1.html</url>
+    <url>%2F1%2F</url>
     <content type="text"></content>
       <categories>
         <category>编程语言</category>
@@ -186,7 +186,7 @@
   </entry>
   <entry>
     <title><![CDATA[指针的用法]]></title>
-    <url>%2F1.html</url>
+    <url>%2F1%2F</url>
     <content type="text"></content>
       <categories>
         <category>编程语言</category>
@@ -195,7 +195,7 @@
   </entry>
   <entry>
     <title><![CDATA[Hexo建站]]></title>
-    <url>%2F1.html</url>
+    <url>%2F1%2F</url>
     <content type="text"></content>
       <tags>
         <tag>Hexo</tag>
@@ -203,7 +203,7 @@
   </entry>
   <entry>
     <title><![CDATA[Vs2010创建第一个Opencv项目的总结]]></title>
-    <url>%2F1.html</url>
+    <url>%2F1%2F</url>
     <content type="text"><![CDATA[工具1、opencv-3.4.6-vc14_vc15链接：https://pan.baidu.com/s/1WtTKqBbXYxvgK0_ledEHTA 提取码：712b2、Vs2010链接：https://pan.baidu.com/s/1axL1Srkks0cyBWb7zQsmUw 提取码：nirl在 Windows 系统下安装 OpenCV注意：尽管 Windows 环境拥有预编译的 release 版本的库，但是它并不包含 debug 版本的库。所以，在开发 OpenCV 之前，需要打开解决方案并且自行编译那些库。1、静态链接 OpenCV,添加一个名为OPENCV_DIR的环境变量告诉编译器在哪里找到 OpenCV 的二进制文件，可以通过命令行工具(cmd)对此进行设置。setx -m OPENCV_DIR D:\OpenCV\Build\x64\vc102、动态链接库（DLL），在库路径中添加%OPENCV_DIR%\bin以 Windows 10 为例，具体操作步骤是：右击计算机图标，选择“属性”，然后单击“高级系统设置”，最后选择“环境变量”，把 OpenCV 二进制文件的路径%OPENCV_DIR%\bin添加到 path 变量中。3、从源代码编译 OpenCV可以按照如下操作从源码编译 OpenCV，具体步骤是：运行 CMake GUI。指定 OpenCV 源码所在路径以及构建目标文件夹（必须和源码所在路径不同）。按两次 Configure 键（选择可以使用的 Visual Studio 编译器或者 MinGW 构建文件，如果正在使用 MinGW 的话），直到所有条目没有红色警示。使用 Visual Studio 打开生成的解决方案并构建。如果使用的是 MinGW，则按照 Linux 的安装指导进行。利用 Vs2010 创建第一个 OpenCv 项目1、创建Hello C++项目，打开项目2、选择项目-&gt;xxx属性-&gt;配置属性-&gt;VC++ 目录修改包含目录和库目录“包含目录”中加入OpenCv的头文件目录，我的头文件目录是在D:\opencv\opencv\build\include“库目录”中加入OpenCv的链接库目录，我的链接库目录是在D:\opencv\opencv\build\x64\vc15\lib3、代码12345678910111213141516171819202122232425262728293031323334353637//C++输入输出库头文件#include "StdAfx.h"#include &lt;iostream&gt;//OpenCV核心库头文件#include &lt;opencv2\core\core.hpp&gt;//OpenCV图形处理头文件#include &lt;opencv2\highgui\highgui.hpp&gt;//OpenCV核心动态链接库，和core.hpp头文件对应，d代表调试版本#pragma comment(lib,"opencv_world346.lib")//OpenCV图形处理动态链接库，和highgui.hpp头文件对应，d代表调试版本#pragma comment(lib,"opencv_world346d.lib")int _tmain(int argc, _TCHAR* argv[])&#123; //窗口名称 std::string windowName = "Hello"; //图像名称 std::string imgFile = "opencv-logo.png"; //读入图像 cv::Mat image = cv::imread(imgFile,CV_LOAD_IMAGE_COLOR); //如果无法读取图形 if(!image.data) &#123; std::cout &lt;&lt; "无法打开图像文件" &lt;&lt;std::endl; system("PAUSE");//暂停窗口 return -1; &#125; //创建一个新窗口 cv::namedWindow(windowName,CV_WINDOW_AUTOSIZE); //将图像显示都新创建的窗口中 cv::imshow(windowName,image); //等待，直到用户按任意键时退出 cv::waitKey(0); return 0;&#125;4、放置图片我这里是将opencv的doc目录下的opencv-logo.png放到项目文件夹下5、添加OpenCV运行时所需的动态运行库将“build\x64\vc15\bin”目录下的.dll文件复制一份到项目Debug文件夹下,我这里是放在Hello\Hello\Debug目录下。6、效果展示OpenCv fatal error LNK1112: 模块计算机类型“x86”与目标计算机类型“x64”冲突——解决方案1、选择项目-&gt;xxx属性；2、点击右上角的配置管理器为活动方案配置选择，分别为 Debug、Release 活动方案选择 x64 的活动解决方案平台。Vs2010 显示不出图片问题的解决方法1、配置opencv的动态链接库选择项目-&gt;xxx属性-&gt;连接器-&gt;输入-&gt;忽略所有默认库中在左上面的配置选择Debug模式，再将忽略所有默认库中的库添加opencv的xxxd.lib库，我这里opencv的xxxd.lib库是在D:\opencv\opencv\build\x64\vc15\lib\opencv_world346d.lib;在左上面的配置选择release模式，再将忽略所有默认库中的库添加opencv的xxx.lib库，我这里opencv的xxx.lib库是在D:\opencv\opencv\build\x64\vc15\lib\opencv_world346.lib2、添加opencV运行时所需的动态运行库将“build\x64\vc15\bin”目录下的.dll文件复制一份到项目Debug文件夹下,我这里是放在Hello\Hello\Debug3、将所显示的图片放置到项目文件夹下我这里是将opencv的doc目录下的opencv-logo.png放到项目文件夹下，例如：Hello\Hello\opencv-logo.png]]></content>
       <categories>
         <category>AI</category>
@@ -214,7 +214,7 @@
   </entry>
   <entry>
     <title><![CDATA[Hello World]]></title>
-    <url>%2Fhello-world.html</url>
+    <url>%2Fhello-world%2F</url>
     <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub.Quick StartCreate a new postMore info: WritingRun serverMore info: ServerGenerate static filesMore info: GeneratingDeploy to remote sitesMore info: Deployment]]></content>
   </entry>
 </search>
