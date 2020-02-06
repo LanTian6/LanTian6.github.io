@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://xiaoyao.ink/categories/index.html</loc>
+    
+    <lastmod>2020-02-06T02:02:19.155Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://xiaoyao.ink/life/index.html</loc>
     
-    <lastmod>2020-02-06T01:46:50.378Z</lastmod>
+    <lastmod>2020-02-06T02:02:07.100Z</lastmod>
     
   </url>
   
@@ -201,13 +208,6 @@
     <loc>https://xiaoyao.ink/photos/index.html</loc>
     
     <lastmod>2019-04-14T08:22:08.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://xiaoyao.ink/categories/index.html</loc>
-    
-    <lastmod>2019-04-09T08:53:54.000Z</lastmod>
     
   </url>
   
