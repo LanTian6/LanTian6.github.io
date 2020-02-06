@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://xiaoyao.ink/"/>
-  <updated>2020-01-24T02:20:03.983Z</updated>
+  <updated>2020-02-06T02:49:06.403Z</updated>
   <id>https://xiaoyao.ink/</id>
   
   <author>
@@ -15,6 +15,22 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>随笔</title>
+    <link href="https://xiaoyao.ink/%E9%9A%8F%E7%AC%94/"/>
+    <id>https://xiaoyao.ink/随笔/</id>
+    <published>2020-02-06T02:47:53.000Z</published>
+    <updated>2020-02-06T02:49:06.403Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="生活" scheme="https://xiaoyao.ink/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>机械臂视觉小车机器人</title>
@@ -350,24 +366,6 @@
       <category term="编程语言" scheme="https://xiaoyao.ink/categories/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/"/>
     
       <category term="C++" scheme="https://xiaoyao.ink/categories/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/C/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Phython</title>
-    <link href="https://xiaoyao.ink/1/"/>
-    <id>https://xiaoyao.ink/1/</id>
-    <published>2019-05-12T00:39:51.000Z</published>
-    <updated>2019-05-12T01:08:26.000Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-      <category term="编程语言" scheme="https://xiaoyao.ink/categories/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/"/>
-    
-      <category term="Phython" scheme="https://xiaoyao.ink/categories/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/Phython/"/>
     
     
   </entry>
